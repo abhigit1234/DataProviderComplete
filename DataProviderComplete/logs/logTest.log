@@ -1,0 +1,246 @@
+12:58:07:156 [main] INFO  TestCases.TestMethod - launched chrome browser
+12:58:10:643 [main] INFO  TestCases.TestMethod - launched url
+12:58:11:689 [main] INFO  TestCases.TestMethod - click on my acc
+12:58:11:819 [main] INFO  TestCases.TestMethod - click on Regisetr from frop down menu
+12:58:13:185 [main] INFO  TestCases.TestMethod - verified success message after login
+12:58:14:446 [main] INFO  TestCases.TestMethod - clicked on logout
+12:58:15:055 [main] INFO  TestCases.TestMethod - click on Continuew button to return home page
+12:58:15:550 [main] INFO  TestCases.TestMethod - click on my acc
+12:58:15:654 [main] INFO  TestCases.TestMethod - click on Regisetr from frop down menu
+12:58:16:870 [main] INFO  TestCases.TestMethod - verified success message after login
+12:58:17:689 [main] INFO  TestCases.TestMethod - clicked on logout
+12:58:18:251 [main] INFO  TestCases.TestMethod - click on Continuew button to return home page
+12:58:18:687 [main] INFO  TestCases.TestMethod - closed browser after execution is completed
+18:20:08:146 [main] INFO  TestCases.TestMethod - launched chrome browser
+18:20:11:964 [main] INFO  TestCases.TestMethod - launched url
+18:20:13:425 [main] INFO  TestCases.TestMethod - click on my acc
+18:20:13:761 [main] INFO  TestCases.TestMethod - click on Regisetr from frop down menu
+18:20:15:365 [main] INFO  TestCases.TestMethod - verified success message after login
+18:20:16:414 [main] INFO  TestCases.TestMethod - clicked on logout
+18:20:17:073 [main] INFO  TestCases.TestMethod - click on Continuew button to return home page
+18:20:17:619 [main] INFO  TestCases.TestMethod - click on my acc
+18:20:17:737 [main] INFO  TestCases.TestMethod - click on Regisetr from frop down menu
+18:20:18:918 [main] INFO  TestCases.TestMethod - verified success message after login
+18:20:19:738 [main] INFO  TestCases.TestMethod - clicked on logout
+18:20:20:174 [main] INFO  TestCases.TestMethod - click on Continuew button to return home page
+18:20:20:661 [main] INFO  TestCases.TestMethod - closed browser after execution is completed
+18:32:23:938 [main] INFO  TestCases.TestMethod - launched chrome browser
+18:32:26:079 [main] INFO  TestCases.TestMethod - launched url
+18:32:26:859 [main] INFO  TestCases.TestMethod - click on my acc
+18:32:26:953 [main] INFO  TestCases.TestMethod - click on Regisetr from frop down menu
+18:32:27:966 [main] INFO  TestCases.TestMethod - verified success message after login
+18:32:28:840 [main] INFO  TestCases.TestMethod - clicked on logout
+18:32:29:714 [main] INFO  TestCases.TestMethod - click on Continuew button to return home page
+18:32:30:245 [main] INFO  TestCases.TestMethod - click on my acc
+18:32:30:312 [main] INFO  TestCases.TestMethod - click on Regisetr from frop down menu
+18:32:31:359 [main] INFO  TestCases.TestMethod - verified success message after login
+18:32:32:237 [main] INFO  TestCases.TestMethod - clicked on logout
+18:32:32:953 [main] INFO  TestCases.TestMethod - click on Continuew button to return home page
+18:32:33:480 [main] INFO  TestCases.TestMethod - closed browser after execution is completed
+18:40:38:700 [main] INFO  TestCases.TestMethod - launched chrome browser
+18:40:40:595 [main] INFO  TestCases.TestMethod - launched url
+18:40:41:416 [main] INFO  TestCases.TestMethod - click on my acc
+18:40:41:519 [main] INFO  TestCases.TestMethod - click on Regisetr from frop down menu
+18:40:42:566 [main] INFO  TestCases.TestMethod - verified success message after login
+18:40:43:621 [main] INFO  TestCases.TestMethod - clicked on logout
+18:40:44:175 [main] INFO  TestCases.TestMethod - click on Continuew button to return home page
+18:40:44:285 [main] INFO  TestCases.TestMethod - click on my acc
+18:40:44:485 [main] INFO  TestCases.TestMethod - closed browser after execution is completed
+18:43:19:419 [main] INFO  TestCases.TestRegisterAccount - launched chrome browser
+18:43:21:330 [main] INFO  TestCases.TestRegisterAccount - launched url
+18:43:22:195 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+18:43:22:292 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+18:43:23:483 [main] INFO  TestCases.TestRegisterAccount - verified success message after login
+18:43:24:520 [main] INFO  TestCases.TestRegisterAccount - clicked on logout
+18:43:25:184 [main] INFO  TestCases.TestRegisterAccount - click on Continuew button to return home page
+18:43:26:145 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+18:43:26:201 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+18:43:29:388 [main] INFO  TestCases.TestRegisterAccount - closed browser after execution is completed
+18:54:06:755 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+18:54:08:815 [main] INFO  TestCases.TestLoginAccount - launched url
+18:54:11:381 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+18:59:07:450 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+18:59:09:673 [main] INFO  TestCases.TestLoginAccount - launched url
+18:59:11:130 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:01:09:411 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+19:01:11:441 [main] INFO  TestCases.TestLoginAccount - launched url
+19:01:12:243 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:01:36:683 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+19:01:39:021 [main] INFO  TestCases.TestLoginAccount - launched url
+19:01:40:357 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:04:35:767 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+19:04:37:955 [main] INFO  TestCases.TestLoginAccount - launched url
+19:04:39:334 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:11:11:201 [main] INFO  TestCases.TestRegisterAccount - launched chrome browser
+19:11:13:355 [main] INFO  TestCases.TestRegisterAccount - launched url
+19:11:14:157 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+19:11:14:247 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+19:11:15:358 [main] INFO  TestCases.TestRegisterAccount - verified success message after login
+19:11:16:267 [main] INFO  TestCases.TestRegisterAccount - clicked on logout
+19:11:16:909 [main] INFO  TestCases.TestRegisterAccount - click on Continuew button to return home page
+19:11:17:322 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+19:11:17:386 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+19:11:17:913 [main] INFO  TestCases.TestRegisterAccount - closed browser after execution is completed
+19:11:46:104 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+19:11:48:244 [main] INFO  TestCases.TestLoginAccount - launched url
+19:11:50:760 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:16:01:855 [main] INFO  TestCases.TestLoginAccount - launched url
+19:16:04:384 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:18:32:527 [main] INFO  TestCases.TestRegisterAccount - launched chrome browser
+19:18:34:802 [main] INFO  TestCases.TestRegisterAccount - launched url
+19:18:35:616 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+19:18:35:704 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+19:18:36:891 [main] INFO  TestCases.TestRegisterAccount - verified success message after login
+19:18:37:923 [main] INFO  TestCases.TestRegisterAccount - clicked on logout
+19:18:38:445 [main] INFO  TestCases.TestRegisterAccount - click on Continuew button to return home page
+19:18:39:004 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+19:18:39:078 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+19:18:40:204 [main] INFO  TestCases.TestRegisterAccount - verified success message after login
+19:18:41:127 [main] INFO  TestCases.TestRegisterAccount - clicked on logout
+19:18:41:763 [main] INFO  TestCases.TestRegisterAccount - click on Continuew button to return home page
+19:18:42:262 [main] INFO  TestCases.TestRegisterAccount - closed browser after execution is completed
+19:18:42:549 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+19:18:43:971 [main] INFO  TestCases.TestLoginAccount - launched url
+19:18:46:202 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:26:49:244 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+19:26:52:065 [main] INFO  TestCases.TestLoginAccount - launched url
+19:26:52:934 [main] INFO  TestCases.TestLoginAccount - *****started login test**********
+19:26:53:037 [main] INFO  TestCases.TestLoginAccount - clicked on my account from dropdown
+19:26:54:722 [main] INFO  TestCases.TestLoginAccount - *****ended login test**********
+19:26:54:732 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:32:33:484 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+19:32:36:376 [main] INFO  TestCases.TestLoginAccount - launched url
+19:32:37:131 [main] INFO  TestCases.TestLoginAccount - *****started login test**********
+19:32:37:229 [main] INFO  TestCases.TestLoginAccount - clicked on my account from dropdown
+19:32:38:714 [main] INFO  TestCases.TestLoginAccount - *****ended login test**********
+19:32:38:726 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+19:32:39:136 [main] INFO  TestCases.TestRegisterAccount - launched chrome browser
+19:32:40:649 [main] INFO  TestCases.TestRegisterAccount - launched url
+19:32:41:569 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+19:32:41:683 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+19:32:43:097 [main] INFO  TestCases.TestRegisterAccount - verified success message after login
+19:32:44:096 [main] INFO  TestCases.TestRegisterAccount - clicked on logout
+19:32:44:614 [main] INFO  TestCases.TestRegisterAccount - click on Continuew button to return home page
+19:32:45:234 [main] INFO  TestCases.TestRegisterAccount - click on my acc
+19:32:45:345 [main] INFO  TestCases.TestRegisterAccount - click on Regisetr from frop down menu
+19:32:46:349 [main] INFO  TestCases.TestRegisterAccount - verified success message after login
+19:32:47:383 [main] INFO  TestCases.TestRegisterAccount - clicked on logout
+19:32:47:930 [main] INFO  TestCases.TestRegisterAccount - click on Continuew button to return home page
+19:32:48:337 [main] INFO  TestCases.TestRegisterAccount - closed browser after execution is completed
+10:49:34:112 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+10:53:01:004 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+10:53:03:679 [main] INFO  TestCases.TestLoginAccount - launched url
+10:53:59:871 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+10:54:02:055 [main] INFO  TestCases.TestLoginAccount - launched url
+10:54:03:097 [main] INFO  TestCases.TestLoginAccount - *****started login test**********
+10:54:44:269 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\abhil\eclipse-selenium\Abhilash\Login.xml
+
+10:54:44:334 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+10:54:46:394 [main] INFO  TestCases.TestLoginAccount - launched url
+10:54:47:329 [main] INFO  TestCases.TestLoginAccount - *****started login test**********
+10:54:47:433 [main] INFO  TestCases.TestLoginAccount - clicked on my account from dropdown
+10:54:49:399 [main] INFO  TestCases.TestLoginAccount - *****ended login test**********
+10:54:49:405 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+10:58:07:530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\abhil\eclipse-selenium\Abhilash\Login.xml
+
+10:58:07:600 [main] INFO  TestCases.TestLoginAccount - launched chrome browser
+10:58:09:759 [main] INFO  TestCases.TestLoginAccount - launched url
+10:58:10:604 [main] INFO  TestCases.TestLoginAccount - *****started login test**********
+10:58:10:716 [main] INFO  TestCases.TestLoginAccount - clicked on my account from dropdown
+10:58:12:617 [main] INFO  TestCases.TestLoginAccount - *****ended login test**********
+10:58:12:624 [main] INFO  TestCases.TestLoginAccount - closed browser after execution is completed
+12:13:38:659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\abhil\eclipse-selenium\Abhilash\LoginExcel.xml
+
+12:13:38:735 [main] INFO  TestCases.TestLoginExcel - launched chrome browser
+12:13:41:410 [main] INFO  TestCases.TestLoginExcel - launched url
+12:13:43:749 [main] INFO  TestCases.TestLoginExcel - closed browser after execution is completed
+12:14:16:848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:14:16:859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:14:16:862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:863 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:868 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:868 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:871 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:872 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:882 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+12:14:16:895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+12:14:16:897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:901 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:901 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:906 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:907 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:911 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:913 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:14:16:928 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:14:16:946 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\abhil\AppData\Local\Temp\testng-eclipse--1409905353\testng-customsuite.xml
+
+12:14:16:987 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+12:14:18:283 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4e2916c3: 114 ms
+12:14:18:302 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5a8ba37c: 19 ms
+12:14:18:316 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4930539b: 13 ms
+12:14:18:327 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e34384c: 11 ms
+12:14:18:335 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2d5f7182: 7 ms
+12:14:18:336 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@59546cfe: 0 ms
+12:14:23:281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\abhil\eclipse-selenium\Abhilash\LoginExcel.xml
+
+12:14:23:351 [main] INFO  TestCases.TestLoginExcel - launched chrome browser
+12:14:25:517 [main] INFO  TestCases.TestLoginExcel - launched url
+12:14:27:933 [main] INFO  TestCases.TestLoginExcel - closed browser after execution is completed
+12:15:29:137 [main] INFO  org.testng.internal.Utils - Method public java.lang.Object[][] Utilities.ReadExcel.getData() throws java.lang.Exception has a @Test annotation but also a return value: ignoring it. Use <suite allow-return-values="true"> to fix this
+12:15:29:155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:15:29:160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:15:29:165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:166 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:166 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:174 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:175 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:177 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:184 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:185 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:185 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:187 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:190 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:15:29:190 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:15:29:201 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\abhil\AppData\Local\Temp\testng-eclipse--1727399816\testng-customsuite.xml
+
+12:15:29:226 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+12:15:29:347 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@160ac7fb: 79 ms
+12:15:29:349 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@12bfd80d: 1 ms
+12:15:29:360 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4721d212: 11 ms
+12:15:29:368 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@12dae582: 7 ms
+12:15:29:369 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@239b0f9d: 1 ms
+12:15:29:369 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@619bfe29: 0 ms
